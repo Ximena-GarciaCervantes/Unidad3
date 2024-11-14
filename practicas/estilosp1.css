@@ -1,0 +1,17 @@
+body{
+    background-color:  #000000;
+    text-align: center;
+    margin: 0;
+}
+
+button{
+    background-color: #b00a0a;
+    border-radius: 50px;
+    color: rgb(253, 143, 96);
+    border: none;
+    font-size: 14px;
+    padding: 6px 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    box-shadow: 0 3px #c5b508;
+}
